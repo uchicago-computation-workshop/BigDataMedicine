@@ -1,7 +1,4 @@
-
-
-
-###The Computational Social Science Workshop Presents
+### The Computational Social Science Workshop Presents
 
 # Big Data in Medicine
 ### A panel chaired by Jeremy Greene, a renowned historian of medicine
